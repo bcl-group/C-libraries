@@ -1,0 +1,1 @@
+FILE *check(char *argv);
